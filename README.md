@@ -1,22 +1,16 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
 
-<a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-22a5781b9/">
+<a href="https://www.linkedin.com/in/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/maksfedenko/">
-  <img align="left" alt="Instagram" width="24px" src="https://github.com/feden2906/icons/blob/main/instagram.png" />
-</a>
-<a href="https://t.me/feden2906">
+<a href="https://t.me/rmpnchk">
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
-<a href="https://www.facebook.com/MaksFedenko">
+<a href="https://www.facebook.com/Roman-Pinchak">
   <img align="left" alt="Facebook" width="24px" src="https://github.com/feden2906/icons/blob/main/facebook.png" />
 </a>
-<a href="#">
-  <img title="feden2906" align="left" alt="Skype" width="24px" src="https://github.com/feden2906/icons/blob/main/skype.png" />
-</a>
-<a href="mailto:feden2906@gmail.com">
+<a href="mailto:romanpincak74@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
 
@@ -77,18 +71,6 @@
 **Activity for the last week :**
 
 <div> 
-  <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
+  <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api?username=rmnpn&show_icons=true" alt="myGitStats" > 
 </div>
 
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript     19 hrs 19 mins  ████████████████████░░░░░   80.65 %
-JavaScript     3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-HTML           36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-SCSS           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Bash           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-```
-
-<!--END_SECTION:waka-->
