@@ -71,6 +71,6 @@
 **Activity for the last week :**
 
 <div> 
-  <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api?username=rmnpn&show_icons=true" alt="myGitStats" > 
+  <img align="left" width="310px" src="https://github-readme-stats.vercel.app/api?username=rmnpn&show_icons=true" alt="myGitStats" > 
 </div>
 
